@@ -1,0 +1,7 @@
+# no subir ficheros txt
+*.txt
+!tareas.txt
+
+*.jpg
+*.png
+*.gif
